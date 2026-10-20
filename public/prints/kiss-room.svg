@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs>
+  <linearGradient id="gp-wall" x2="1" y2="1"><stop stop-color="#edf2f5"/><stop offset="1" stop-color="#b6c5d2"/></linearGradient>
+  <linearGradient id="gp-metal" x2="0" y2="1"><stop stop-color="#f7fcff"/><stop offset=".4" stop-color="#a4b2c0"/><stop offset=".5" stop-color="#f3f9ff"/><stop offset="1" stop-color="#778795"/></linearGradient>
+  <filter id="gp-print-shadow" x="-30%" y="-20%" width="170%" height="160%"><feDropShadow dx="10" dy="16" stdDeviation="11" flood-color="#344c62" flood-opacity=".3"/></filter>
+</defs>
+<rect width="800" height="1000" fill="url(#gp-wall)"/>
+<path d="M0 0H285L800 650V900Z" fill="#fff" opacity=".18"/>
+<path d="M0 180 800 795M0 310 800 925" stroke="#8195a5" stroke-width="10" opacity=".09"/>
+<g filter="url(#gp-print-shadow)"><rect x="220" y="108" width="360" height="450" fill="#fff"/>
+<svg x="220" y="108" width="360" height="450" viewBox="0 0 480 600"><defs><linearGradient id="chrome" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#fff"/><stop offset=".18" stop-color="#dfe9f5"/><stop offset=".37" stop-color="#8797ab"/><stop offset=".46" stop-color="#f9fdff"/><stop offset=".5" stop-color="#354359"/><stop offset=".6" stop-color="#9dadc5"/><stop offset=".78" stop-color="#f7fbff"/><stop offset="1" stop-color="#5b6f8b"/></linearGradient><radialGradient id="blue"><stop stop-color="#a4d4f5"/><stop offset=".45" stop-color="#688ecf"/><stop offset="1" stop-color="#29479c"/></radialGradient><pattern id="dot" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#101b35" opacity=".3"/></pattern><filter id="shadow"><feDropShadow dx="3" dy="5" stdDeviation="3" flood-color="#000" flood-opacity=".5"/></filter><path id="spark" d="M0-28 7-7 28 0 7 7 0 28-7 7-28 0-7-7Z"/></defs><rect width="480" height="600" fill="#d8fa63"/><g fill="none" stroke="#181f16" stroke-width="1"><path d="M20 20h440v560H20Z"/><path d="M0 180h480M0 465h480"/></g><text x="29" y="113" font-family="Impact,Arial Black,sans-serif" font-weight="900" font-size="101" font-style="italic" letter-spacing="-4" fill="#10140c">KISS &amp;</text><text x="446" y="167" text-anchor="end" font-family="Arial Black,Arial,sans-serif" font-size="49" font-weight="900" fill="#10140c">TELL.</text>
+<g transform="rotate(-12 240 323)"><path d="M38 319c57-18 103-93 159-79 18 4 29 21 44 21 18 0 28-22 49-22 65 0 96 64 152 82-34 30-71 94-130 103-86 13-182-22-274-105Z" fill="#101414"/><path d="M40 319c80 8 127-10 197-6 70 5 120 25 204 8-85 38-164 67-244 47-63-16-107-31-157-49Z" fill="#eff6cb"/><path d="M40 319c83 10 145-15 198-7 58 7 122 23 203 9-72 20-148 21-208 11-63-10-124 5-193-13Z" fill="#101414"/><path d="M89 294c38-20 62-45 101-44m83 6c36-11 64 13 88 33M161 393c53 22 100 27 146 16" fill="none" stroke="#7b8a3d" stroke-width="4"/></g><text x="28" y="511" font-family="Arial,sans-serif" font-size="14" font-weight="900" letter-spacing="2">A LOUD POINT OF VIEW.</text><g fill="#111"><use href="#spark" transform="translate(405 510) scale(1.1)"/></g><text x="240" y="565" text-anchor="middle" fill="#263411" font-family="monospace" font-size="8" letter-spacing="3">GIRL PRINTS / THE ICON EDIT</text></svg></g>
+<ellipse cx="418" cy="803" rx="310" ry="29" fill="#52677b" opacity=".18"/>
+<path d="M96 710H704L747 758H53Z" fill="#dce5ed"/>
+<rect x="53" y="758" width="694" height="17" fill="url(#gp-metal)"/>
+<path d="M90 775V1000M710 775V1000" stroke="url(#gp-metal)" stroke-width="15"/>
+<g transform="translate(145 690) rotate(-4)"><rect width="172" height="22" fill="#10151e"/><rect x="-9" y="22" width="190" height="17" fill="#d7f66c"/><path d="M9 27H168M9 31H168" stroke="#9bae54"/><text x="14" y="15" fill="#d9e6f2" font-family="monospace" font-size="10" letter-spacing="2">THE POSTER EDIT</text></g>
+<path d="M604 711V618" stroke="#8d9caa" stroke-width="6"/><ellipse cx="604" cy="714" rx="39" ry="7" fill="url(#gp-metal)"/>
+<path d="M547 626Q604 535 661 626Z" fill="url(#gp-metal)" stroke="#98aab9"/>
+<text x="400" y="959" text-anchor="middle" font-family="monospace" font-size="12" fill="#4f6476" letter-spacing="3">ROOM MOCKUP / DEMO</text>
+</svg>
